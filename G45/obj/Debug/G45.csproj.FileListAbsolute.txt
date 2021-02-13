@@ -1,0 +1,74 @@
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\Bin\Debug\G45.dll
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\Bin\Debug\G45.pdb
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\Bin\Debug\AppManifest.xaml
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\Bin\Debug\G45_Debug_AnyCPU.xap
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\obj\Debug\App.g.cs
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\obj\Debug\MainPage.g.cs
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\obj\Debug\Page1.g.cs
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\obj\Debug\Page2.g.cs
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\obj\Debug\Page3.g.cs
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\obj\Debug\Page4.g.cs
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\obj\Debug\Page5.g.cs
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\obj\Debug\G45.g.resources
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\obj\Debug\G45.Resources.AppResources.resources
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\obj\Debug\G45.csproj.GenerateResource.Cache
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\obj\Debug\G45.dll
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\obj\Debug\G45.pdb
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\obj\Debug\XapCacheFile.xml
+C:\Users\Max\Desktop\FYP\G45\G45\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Max\Desktop\FYP\G45\G45\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Max\Desktop\FYP\G45\G45\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Max\Desktop\FYP\G45\G45\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Max\Desktop\FYP\G45\G45\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Max\Desktop\FYP\G45\G45\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Max\Desktop\FYP\G45\G45\Bin\Debug\G45.dll
+C:\Users\Max\Desktop\FYP\G45\G45\Bin\Debug\G45.pdb
+C:\Users\Max\Desktop\FYP\G45\G45\Bin\Debug\AppManifest.xaml
+C:\Users\Max\Desktop\FYP\G45\G45\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Max\Desktop\FYP\G45\G45\Bin\Debug\G45_Debug_AnyCPU.xap
+C:\Users\Max\Desktop\FYP\G45\G45\obj\Debug\App.g.cs
+C:\Users\Max\Desktop\FYP\G45\G45\obj\Debug\MainPage.g.cs
+C:\Users\Max\Desktop\FYP\G45\G45\obj\Debug\Page1.g.cs
+C:\Users\Max\Desktop\FYP\G45\G45\obj\Debug\Page2.g.cs
+C:\Users\Max\Desktop\FYP\G45\G45\obj\Debug\Page3.g.cs
+C:\Users\Max\Desktop\FYP\G45\G45\obj\Debug\Page4.g.cs
+C:\Users\Max\Desktop\FYP\G45\G45\obj\Debug\Page5.g.cs
+C:\Users\Max\Desktop\FYP\G45\G45\obj\Debug\G45.g.resources
+C:\Users\Max\Desktop\FYP\G45\G45\obj\Debug\G45.Resources.AppResources.resources
+C:\Users\Max\Desktop\FYP\G45\G45\obj\Debug\G45.csproj.GenerateResource.Cache
+C:\Users\Max\Desktop\FYP\G45\G45\obj\Debug\G45.dll
+C:\Users\Max\Desktop\FYP\G45\G45\obj\Debug\G45.pdb
+C:\Users\Max\Desktop\FYP\G45\G45\obj\Debug\XapCacheFile.xml
+C:\Users\Max\Desktop\FYP\G45\G45\obj\Debug\Page6.g.cs
+C:\Users\WAR\Downloads\G45\G45\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\WAR\Downloads\G45\G45\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\WAR\Downloads\G45\G45\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\WAR\Downloads\G45\G45\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\WAR\Downloads\G45\G45\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\WAR\Downloads\G45\G45\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\WAR\Downloads\G45\G45\Bin\Debug\G45.dll
+C:\Users\WAR\Downloads\G45\G45\Bin\Debug\G45.pdb
+C:\Users\WAR\Downloads\G45\G45\Bin\Debug\AppManifest.xaml
+C:\Users\WAR\Downloads\G45\G45\Bin\Debug\G45_Debug_AnyCPU.xap
+C:\Users\WAR\Downloads\G45\G45\obj\Debug\App.g.cs
+C:\Users\WAR\Downloads\G45\G45\obj\Debug\MainPage.g.cs
+C:\Users\WAR\Downloads\G45\G45\obj\Debug\Page1.g.cs
+C:\Users\WAR\Downloads\G45\G45\obj\Debug\Page2.g.cs
+C:\Users\WAR\Downloads\G45\G45\obj\Debug\Page3.g.cs
+C:\Users\WAR\Downloads\G45\G45\obj\Debug\Page4.g.cs
+C:\Users\WAR\Downloads\G45\G45\obj\Debug\Page5.g.cs
+C:\Users\WAR\Downloads\G45\G45\obj\Debug\Page6.g.cs
+C:\Users\WAR\Downloads\G45\G45\obj\Debug\G45.g.resources
+C:\Users\WAR\Downloads\G45\G45\obj\Debug\G45.Resources.AppResources.resources
+C:\Users\WAR\Downloads\G45\G45\obj\Debug\G45.csproj.GenerateResource.Cache
+C:\Users\WAR\Downloads\G45\G45\obj\Debug\G45.dll
+C:\Users\WAR\Downloads\G45\G45\obj\Debug\G45.pdb
+C:\Users\WAR\Downloads\G45\G45\obj\Debug\XapCacheFile.xml
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\obj\Debug\Page6.g.cs
+C:\Users\WAR\Documents\Visual Studio 2012\Projects\G45\G45\Bin\Debug\Properties\WMAppManifest.xml
